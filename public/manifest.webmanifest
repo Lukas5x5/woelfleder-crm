@@ -1,0 +1,29 @@
+{
+  "name": "Wölfleder Stalltechnik CRM",
+  "short_name": "Wölfleder CRM",
+  "description": "Kundenverwaltung für Wölfleder Stalltechnik",
+  "start_url": "/woelfleder-crm/",
+  "scope": "/woelfleder-crm/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/woelfleder-crm/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/woelfleder-crm/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/woelfleder-crm/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
