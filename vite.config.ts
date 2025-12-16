@@ -17,8 +17,8 @@ export default defineConfig({
         theme_color: '#2563eb',
         background_color: '#ffffff',
         display: 'standalone',
-        scope: '/',
-        start_url: '/',
+        scope: '/woelfleder-crm/',
+        start_url: '/woelfleder-crm/',
         orientation: 'portrait',
         icons: [
           {

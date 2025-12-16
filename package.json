@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://IHR-GITHUB-USERNAME.github.io/woelfleder-crm",
+  "homepage": "https://Lukas5x5.github.io/woelfleder-crm",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

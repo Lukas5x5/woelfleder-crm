@@ -101,8 +101,7 @@ export function CustomerDetail({ customerId, onBack, onEdit }: CustomerDetailPro
       return;
     }
 
-    await reminderService.createReminder({
-      kundenId: customerId,
+    await reminderService.addReminder(customerId, {
       typ: newReminder.typ,
       beschreibung: newReminder.beschreibung,
       faelligAm: new Date(newReminder.faelligAm),
